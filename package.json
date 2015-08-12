@@ -1,0 +1,25 @@
+{
+  "name": "koa-graphql",
+  "version": "0.0.0",
+  "description": "Create a GraphQL HTTP server with Koa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demohi/koa-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "koa-graphql",
+    "koa",
+    "graphqljs"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/koa-graphql/issues"
+  },
+  "homepage": "https://github.com/demohi/koa-graphql#readme"
+}
